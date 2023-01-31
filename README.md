@@ -6,8 +6,24 @@ Hi, I'm Aashay Dwivedi
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science+Nerd;Writer;Math%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science+Nerd;Writer;Math%20|%20AI%20|%20Philosophy%20;Always%20Reading%20&center=true&width=380&height=45"></a>
 </p>
 
-![Alt Text](https://giphy.com/embed/xT4Aphm45GMfpVEUxO.gif)
+<img align="left" src="https://media.giphy.com/media/xT4Aphm45GMfpVEUxO/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" height="210"/>
 
+
+```
+CaptainAHD@github
+-------------------------
+💻 I am a self taught Machine Learning Developer
+📝 I really like to work with Data
+🔭 Working on Deep Learning with Legal Data
+🌱 Learning about NLP, Quantitative Finance, Computer Vision
+🌟 Main languages: Python, R, JavaScript
+📚 I like to read books on History, Economics, Philosphy, and Science
+🎵 Love Rock and classical music
+```
+   ![gif](https://media.giphy.com/media/8q92vsFOM9I2s/giphy-downsized-large.gif)
+   ![gif](https://media.giphy.com/media/8q92vsFOM9I2s/giphy-downsized-large.gif)
+   ![gif](https://media.giphy.com/media/8q92vsFOM9I2s/giphy-downsized-large.gif)
+   ![gif](https://media.giphy.com/media/8q92vsFOM9I2s/giphy-downsized-large.gif)
