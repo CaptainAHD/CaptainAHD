@@ -9,5 +9,5 @@ Hi, I'm Aashay Dwivedi
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science+Nerd;Writer;Math%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/xT4Aphm45GMfpVEUxO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-design-yes-xT4Aphm45GMfpVEUxO">via GIPHY</a></p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CaptainAHD&count_private=true&show_icons=true&include_all_commits=true)
+![Alt Text](https://giphy.com/embed/xT4Aphm45GMfpVEUxO.gif)
+
