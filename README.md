@@ -1,11 +1,16 @@
-### Hi there 👋
-I am Aashay Dwivedi, currently studying Computer Science Engineering. I love math, data, and analytic philosophy. I study emergent phenomena and love to read. I am mostly self-taught. Right now studying quantitative finance and exploring deep learning applications within it. Feel free to leave an email.
+<h1 align="center">
+Hi, I'm Aashay Dwivedu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+<br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-aashay.dwivedi007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aashay.dwivedi007@gmail.com)](mailto:aashay.dwivedi007@gmail.com)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science+Nerd;Writer;Math%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-## Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
+<!img align="left" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="210"/>
+<iframe src="https://giphy.com/embed/xT4Aphm45GMfpVEUxO" width="480" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-design-yes-xT4Aphm45GMfpVEUxO">via GIPHY</a></p>
 <!--
 **CaptainAHD/CaptainAHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
