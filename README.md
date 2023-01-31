@@ -60,4 +60,4 @@ CaptainAHD@github
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-<img align="left" src="https://media.giphy.com/media/8q92vsFOM9I2s/giphy-downsized-large.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="1000" height="300"/>
+<img align="left" src="https://media.giphy.com/media/hyBjcpooaAwuY/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="1000" height="300"/>
