@@ -9,7 +9,7 @@ Hi, I'm Aashay Dwivedu
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science+Nerd;Writer;Math%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!img align="left" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="210"/>
+<img align="left" src="https://giphy.com/embed/xT4Aphm45GMfpVEUxO" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="210"/>
 <iframe src="https://giphy.com/embed/xT4Aphm45GMfpVEUxO" width="480" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-design-yes-xT4Aphm45GMfpVEUxO">via GIPHY</a></p>
 <!--
 **CaptainAHD/CaptainAHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
