@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am Aashay Dwivedi, currently studying Computer Science Engineering. I love math, data, and analytic philosophy. I study emergent phenomena and love to read. I am mostly self-taught. Right now studying quantitative finance and exploring deep learning applications within it. Feel free to leave an email.
 
+[![Gmail Badge](https://img.shields.io/badge/-aashay.dwivedi007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aashay.dwivedi007@gmail.com)](mailto:aashay.dwivedi007@gmail.com)
 <!--
 **CaptainAHD/CaptainAHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
