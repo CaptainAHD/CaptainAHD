@@ -55,6 +55,7 @@ CaptainAHD@github
 [![](https://github-readme-stats.vercel.app/api?username=CaptainAHD&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CaptainAHD)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=CaptainAHD&theme=material-palenight)](https://github.com/Elanza-48)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAHD&hide=TeX&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainAHD&theme=dracula)
 </div>
 
 
