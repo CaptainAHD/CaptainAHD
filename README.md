@@ -28,7 +28,6 @@ CaptainAHD@github
 
 ```
 
-[![Gmail Badge](https://img.shields.io/badge/-aashay.dwivedi007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aashay.dwivedi007@gmail.com)](mailto:aashay.dwivedi007@gmail.com)
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
