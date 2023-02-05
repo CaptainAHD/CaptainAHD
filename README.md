@@ -23,7 +23,7 @@ CaptainAHD@github
 🔭 Working on Deep Learning with Legal Data
 🌱 Learning about NLP, Quantitative Finance, Computer Vision
 🌟 Main languages: Python, R, JavaScript
-📚 I like to read books on History, Economics, Philosphy, and Science
+📚 I like to read books on History, Economics, Philosophy, and Science
 🎵 Love Rock and classical music
 
 ```
