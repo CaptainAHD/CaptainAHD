@@ -57,5 +57,6 @@ CaptainAHD@github
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=w8re0o73zyw8sx87d8wza30n0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=w8re0o73zyw8sx87d8wza30n0&cover_image=true&theme=default&show_offline=false&background_color=121212)]]
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" src="https://media.giphy.com/media/hyBjcpooaAwuY/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="1000" height="300"/>
