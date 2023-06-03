@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Aashay Dwivedi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<p><em><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="20" height = "20"> Junior Research Fellow at <a href="https://sites.google.com/iiti.ac.in/iiti-drishti-cps-foundation/home"> IIT Indore Drishti CPS Foundation
+<p><em><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="20" height = "20"> Research Intern at <a href="https://sites.google.com/iiti.ac.in/iiti-drishti-cps-foundation/home"> IIT Indore Drishti CPS Foundation
 </a>
 </em></p>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
